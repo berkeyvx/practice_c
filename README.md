@@ -22,3 +22,8 @@
 **removeAllCommentsC.c**
 
 Write a program to remove all comments from a C program. Don't forget to handle quoted strings and character constants properly. C comments don't nest.
+
+**htoi.c**
+
+Write a function htoi(s), which converts a string of hexadecimal digits (including an optional 0x or 0X) into its equivalent integer value.
+ The allowable digits are 0 through 9, a through f, and A through F. Edit "char *hexa = "0xff";" variable at line 12
