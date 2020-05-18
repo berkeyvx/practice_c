@@ -1,6 +1,6 @@
 /* 
   Write a program to print a histogram of the lengths of words vertically in its input.
-  TO RUN PROGRAM ./executable_program text_file.txt
+  TO RUN PROGRAM ./executable_program < text_file.txt
   EOF does not work on direct compile because EOF requires -1 but console provides \n
 */
 
