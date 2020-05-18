@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void deleteAllComments();
+
+/* Comment line*/
+
+int main(int argc, char const *argv[])
+{
+	deleteAllComments();
+	return 0;
+}
+
+/* Comment line*/
