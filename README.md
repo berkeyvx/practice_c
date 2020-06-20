@@ -2,6 +2,9 @@
 
 # practice_c
 
+This repo contains solutions of some examples in The C Programming Language book.
+The C Programming Language Written by Brian Kernighan and Dennis Ritchie
+
 # Some Examples of Chapter 1-2-3-4
 
 **histogramLengthOfWords.c && histogramLengthOfWords.txt**
