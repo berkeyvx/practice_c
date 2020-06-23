@@ -46,4 +46,14 @@ Write a function htoi(s), which converts a string of hexadecimal digits (includi
 
  # Some Examples of Chapter 5
 
- 
+**strcat_with_pointers.c**
+
+Write a pointer version of the function strcat that we showed in Chapter 2: strcat(s,t) copies the string t to the end of s.
+
+**strend.c**
+
+Write the function strend(s,t), which returns 1 if the string t occurs at the end of the string s, and zero otherwise.
+
+**strncat.c**
+
+strncat(s,t,n) concats at most n characters of t to s. 
