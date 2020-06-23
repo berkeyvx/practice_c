@@ -1,4 +1,4 @@
-//strncpy(s,t,n) copies at most n characters of t to s. 
+//strncat(s,t,n) concats at most n characters of t to s. 
 
 #include <stdio.h>
 
