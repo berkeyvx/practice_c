@@ -57,3 +57,5 @@ Write the function strend(s,t), which returns 1 if the string t occurs at the en
 **strncat.c**
 
 strncat(s,t,n) concats at most n characters of t to s. 
+
+BROKEN GIT
