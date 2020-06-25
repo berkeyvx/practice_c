@@ -58,4 +58,17 @@ Write the function strend(s,t), which returns 1 if the string t occurs at the en
 
 strncat(s,t,n) concats at most n characters of t to s. 
 
-BROKEN GIT
+**tail.c**
+
+Write the program tail, which prints the last n lines of its input. By default, n is set to 10, let us say, 
+ but it can be changed by an optional argument so that
+	tail -n
+prints the last n lines.
+
+gcc tail.c -o a
+./a tail -2 <_arguments_>
+./a tail <_arguments_>
+
+**reversePolishExpression.c**
+
+Write the program expr, which evaluates a reverse Polish expression from the command line, where each operator or operand is a separate argument.
